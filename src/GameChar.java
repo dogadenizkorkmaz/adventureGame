@@ -37,7 +37,6 @@ public abstract class GameChar {
           this.money = money;
      }
 
-
      public String getName() {
           return name;
      }
